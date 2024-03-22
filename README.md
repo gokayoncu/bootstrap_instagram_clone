@@ -1,2 +1,2 @@
-# bootstrap_instagram_clone
-(Cohort-2) Patika+ Front-End
+# instagrambootstrapclone
+Simple HTML Instagram clone made with Bootstrap.
